@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:coffee_app/card.dart';
+// import 'package:coffee_app/card.dart';
 import 'package:coffee_app/coffee_prefs.dart';
 
 class Home extends StatelessWidget {
